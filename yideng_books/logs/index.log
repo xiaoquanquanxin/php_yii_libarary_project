@@ -1,0 +1,154 @@
+[2019-04-13T13:15:44.378] [ERROR] default - ReferenceError: aaaa is not defined
+    at _.get (F:\project\yideng-books\controllers\index.js:7:3)
+    at dispatch (F:\project\yideng-books\node_modules\koa-simple-router\index.js:186:18)
+    at Router._lookup (F:\project\yideng-books\node_modules\koa-simple-router\index.js:198:12)
+    at F:\project\yideng-books\node_modules\koa-simple-router\index.js:138:21
+    at dispatch (F:\project\yideng-books\node_modules\koa-compose\index.js:42:32)
+    at app.use (F:\project\yideng-books\middleware\error.js:15:9)
+    at dispatch (F:\project\yideng-books\node_modules\koa-compose\index.js:42:32)
+    at app.use (F:\project\yideng-books\middleware\error.js:4:10)
+    at dispatch (F:\project\yideng-books\node_modules\koa-compose\index.js:42:32)
+    at F:\project\yideng-books\node_modules\koa-compose\index.js:34:12
+[2019-04-13T13:15:46.760] [ERROR] default - 404
+[2019-04-13T13:15:56.321] [ERROR] default - ReferenceError: aaaa is not defined
+    at _.get (F:\project\yideng-books\controllers\index.js:7:3)
+    at dispatch (F:\project\yideng-books\node_modules\koa-simple-router\index.js:186:18)
+    at Router._lookup (F:\project\yideng-books\node_modules\koa-simple-router\index.js:198:12)
+    at F:\project\yideng-books\node_modules\koa-simple-router\index.js:138:21
+    at dispatch (F:\project\yideng-books\node_modules\koa-compose\index.js:42:32)
+    at app.use (F:\project\yideng-books\middleware\error.js:15:9)
+    at dispatch (F:\project\yideng-books\node_modules\koa-compose\index.js:42:32)
+    at app.use (F:\project\yideng-books\middleware\error.js:4:10)
+    at dispatch (F:\project\yideng-books\node_modules\koa-compose\index.js:42:32)
+    at F:\project\yideng-books\node_modules\koa-compose\index.js:34:12
+[2019-04-13T13:15:58.413] [ERROR] default - 404
+[2019-04-15T21:52:58.808] [ERROR] default - 404
+[2019-04-15T21:53:27.698] [ERROR] default - 404
+[2019-04-15T21:53:38.645] [ERROR] default - 404
+[2019-04-15T21:57:46.080] [ERROR] default - 404
+[2019-04-15T21:57:49.961] [ERROR] default - 404
+[2019-04-15T21:57:50.129] [ERROR] default - 404
+[2019-04-15T21:57:52.737] [ERROR] default - 404
+[2019-04-15T21:57:54.224] [ERROR] default - 404
+[2019-04-15T21:57:56.890] [ERROR] default - 404
+[2019-04-15T21:57:57.861] [ERROR] default - 404
+[2019-04-15T21:57:58.467] [ERROR] default - 404
+[2019-04-15T21:58:57.132] [ERROR] default - 404
+[2019-04-15T21:59:02.004] [ERROR] default - 404
+[2019-04-15T21:59:02.160] [ERROR] default - 404
+[2019-04-15T21:59:02.677] [ERROR] default - 404
+[2019-04-15T22:00:10.308] [ERROR] default - 404
+[2019-04-15T22:00:11.371] [ERROR] default - 404
+[2019-04-15T22:00:13.282] [ERROR] default - 404
+[2019-04-15T22:00:13.856] [ERROR] default - 404
+[2019-04-15T22:00:15.158] [ERROR] default - 404
+[2019-04-15T22:00:25.079] [ERROR] default - 404
+[2019-04-15T22:00:30.124] [ERROR] default - 404
+[2019-04-15T22:02:13.840] [ERROR] default - 404
+[2019-04-15T22:02:14.350] [ERROR] default - 404
+[2019-04-15T22:02:20.187] [ERROR] default - 404
+[2019-04-15T22:02:20.643] [ERROR] default - 404
+[2019-04-15T22:02:20.747] [ERROR] default - 404
+[2019-04-15T22:02:20.954] [ERROR] default - 404
+[2019-04-15T22:02:21.199] [ERROR] default - 404
+[2019-04-15T22:02:24.009] [ERROR] default - 404
+[2019-04-15T22:02:24.130] [ERROR] default - 404
+[2019-04-15T22:02:28.148] [ERROR] default - 404
+[2019-04-15T22:02:28.914] [ERROR] default - 404
+[2019-04-15T22:02:29.000] [ERROR] default - 404
+[2019-04-15T22:02:29.800] [ERROR] default - 404
+[2019-04-15T22:02:31.015] [ERROR] default - 404
+[2019-04-15T22:02:32.756] [ERROR] default - 404
+[2019-04-15T22:05:21.455] [ERROR] default - 404
+[2019-04-15T22:05:22.702] [ERROR] default - 404
+[2019-04-15T22:05:23.388] [ERROR] default - 404
+[2019-04-15T22:05:24.363] [ERROR] default - 404
+[2019-04-15T22:06:09.347] [ERROR] default - 404
+[2019-04-15T22:06:16.616] [ERROR] default - 404
+[2019-04-15T22:06:32.954] [ERROR] default - 404
+[2019-04-15T22:07:03.922] [ERROR] default - 404
+[2019-04-15T22:07:40.640] [ERROR] default - 404
+[2019-04-15T22:08:26.538] [ERROR] default - 404
+[2019-04-15T22:08:41.557] [ERROR] default - 404
+[2019-04-15T22:09:03.396] [ERROR] default - 404
+[2019-04-15T22:09:43.384] [ERROR] default - 404
+[2019-04-15T22:09:43.407] [ERROR] default - 404
+[2019-04-15T22:10:20.247] [ERROR] default - 404
+[2019-04-15T22:10:20.260] [ERROR] default - 404
+[2019-04-15T22:10:24.125] [ERROR] default - 404
+[2019-04-15T22:10:24.148] [ERROR] default - 404
+[2019-04-15T22:11:18.254] [ERROR] default - 404
+[2019-04-15T22:11:18.280] [ERROR] default - 404
+[2019-04-15T22:11:28.389] [ERROR] default - 404
+[2019-04-15T22:11:28.407] [ERROR] default - 404
+[2019-04-15T22:11:29.120] [ERROR] default - 404
+[2019-04-15T22:11:29.142] [ERROR] default - 404
+[2019-04-15T22:11:30.438] [ERROR] default - 404
+[2019-04-15T22:11:30.448] [ERROR] default - 404
+[2019-04-15T22:11:39.981] [ERROR] default - 404
+[2019-04-15T22:11:39.989] [ERROR] default - 404
+[2019-04-15T22:11:44.501] [ERROR] default - 404
+[2019-04-15T22:11:44.510] [ERROR] default - 404
+[2019-04-15T22:11:57.093] [ERROR] default - 404
+[2019-04-15T22:12:15.274] [ERROR] default - 404
+[2019-04-15T22:12:15.296] [ERROR] default - 404
+[2019-04-15T22:12:42.234] [ERROR] default - 404
+[2019-04-15T22:16:22.784] [ERROR] default - 404
+[2019-04-15T22:16:22.797] [ERROR] default - 404
+[2019-04-15T22:16:42.511] [ERROR] default - 404
+[2019-04-15T22:17:35.939] [ERROR] default - 404
+[2019-04-15T22:17:49.838] [ERROR] default - 404
+[2019-04-15T22:18:08.955] [ERROR] default - 404
+[2019-04-15T22:18:20.504] [ERROR] default - 404
+[2019-04-15T22:18:24.056] [ERROR] default - 404
+[2019-04-15T22:18:39.605] [ERROR] default - 404
+[2019-04-15T22:19:44.441] [ERROR] default - 404
+[2019-04-15T22:20:02.326] [ERROR] default - 404
+[2019-04-15T22:20:58.770] [ERROR] default - 404
+[2019-04-15T22:23:05.691] [ERROR] default - 404
+[2019-04-15T22:23:17.573] [ERROR] default - 404
+[2019-04-15T22:23:30.898] [ERROR] default - 404
+[2019-04-15T22:23:35.637] [ERROR] default - 404
+[2019-04-15T22:23:37.744] [ERROR] default - 404
+[2019-04-15T22:23:54.493] [ERROR] default - 404
+[2019-04-15T22:24:08.070] [ERROR] default - 404
+[2019-04-15T22:24:17.769] [ERROR] default - 404
+[2019-04-15T22:24:44.838] [ERROR] default - 404
+[2019-04-15T22:25:03.566] [ERROR] default - 404
+[2019-04-15T22:25:43.279] [ERROR] default - 404
+[2019-04-15T22:27:55.375] [ERROR] default - 404
+[2019-04-15T22:42:19.269] [ERROR] default - 404
+[2019-04-15T22:51:13.924] [ERROR] default - 404
+[2019-04-15T22:53:07.920] [ERROR] default - 404
+[2019-04-15T22:55:08.901] [ERROR] default - 404
+[2019-04-15T22:55:17.462] [ERROR] default - 404
+[2019-04-15T22:56:52.097] [ERROR] default - 404
+[2019-04-15T22:56:56.507] [ERROR] default - 404
+[2019-04-15T22:58:00.272] [ERROR] default - 404
+[2019-04-15T22:58:05.766] [ERROR] default - 404
+[2019-04-15T22:58:10.377] [ERROR] default - 404
+[2019-04-15T23:00:23.620] [ERROR] default - 404
+[2019-04-15T23:03:14.614] [ERROR] default - 404
+[2019-04-15T23:03:42.861] [ERROR] default - 404
+[2019-04-15T23:05:27.561] [ERROR] default - 404
+[2019-04-15T23:05:28.326] [ERROR] default - 404
+[2019-04-15T23:05:28.513] [ERROR] default - 404
+[2019-04-15T23:05:28.841] [ERROR] default - 404
+[2019-04-15T23:05:29.016] [ERROR] default - 404
+[2019-04-15T23:05:37.293] [ERROR] default - 404
+[2019-04-15T23:05:37.511] [ERROR] default - 404
+[2019-04-15T23:05:37.604] [ERROR] default - 404
+[2019-04-15T23:05:37.942] [ERROR] default - 404
+[2019-04-15T23:05:38.095] [ERROR] default - 404
+[2019-04-15T23:09:09.168] [ERROR] default - 404
+[2019-04-15T23:13:50.786] [ERROR] default - 404
+[2019-04-15T23:13:54.009] [ERROR] default - 404
+[2019-04-15T23:14:09.734] [ERROR] default - 404
+[2019-04-15T23:14:12.859] [ERROR] default - 404
+[2019-04-15T23:28:11.726] [ERROR] default - 404
+[2019-04-15T23:28:38.635] [ERROR] default - 404
+[2019-04-15T23:28:50.651] [ERROR] default - 404
+[2019-04-15T23:31:49.717] [ERROR] default - 404
+[2019-04-15T23:31:53.161] [ERROR] default - 404
+[2019-04-15T23:32:14.042] [ERROR] default - 404
+[2019-04-15T23:32:22.348] [ERROR] default - 404

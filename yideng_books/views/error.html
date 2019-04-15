@@ -1,0 +1,27 @@
+{% extends './layout.html' %}
+{% block title %} 错误页 {% endblock %}
+
+
+{% block head %}
+<link rel="stylesheet" href="/css/index.css">
+{% endblock %}
+
+
+{% block content %}
+<div class="alert alert-danger" role="alert">
+    <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+    <span class="sr-only">404:</span>
+    [[ error ]]
+</div>
+<div class="alert alert-danger" role="alert">
+    <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+    <span class="sr-only">404:</span>
+    再过<span id="second"></span>秒回到首页
+</div>
+{% endblock %}
+
+
+{% block script %}
+<script src="/js/error.js"></script>
+{% endblock %}
+
